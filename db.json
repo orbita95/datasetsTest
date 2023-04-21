@@ -1,31 +1,31 @@
 {
   "kits": [
     {
-      "index": 0,
+      "id": 1,
       "name": "KitFoto",
       "potencia": 2,
       "preco": "$2,186.06"
     },
     {
-      "index": 1,
+      "id": 2,
       "name": "KitFoto",
       "potencia": 5,
       "preco": "$1,164.86"
     },
     {
-      "index": 2,
+      "id": 3,
       "name": "KitFoto",
       "potencia": 12,
       "preco": "$2,203.19"
     },
     {
-      "index": 3,
+      "id": 4,
       "name": "KitFoto",
       "potencia": 9,
       "preco": "$2,667.74"
     },
     {
-      "index": 4,
+      "id": 5,
       "name": "KitFoto",
       "potencia": 14,
       "preco": "$1,183.58"
